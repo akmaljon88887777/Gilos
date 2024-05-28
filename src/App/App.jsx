@@ -1,10 +1,12 @@
 import React from "react";
 import "./App.css";
-import Routers from "../Router/index";
+
+import Root from "../Root";
+
 function App() {
   return (
-    <div className="App bg-pink sm:bg-black lg:bg-blue">
-      <Routers />
+    <div className="App bg-pink sm:bg-black lg:bg-blue h-screen">
+      <Root />
     </div>
   );
 }
