@@ -9,7 +9,7 @@ function Navbar() {
         <div className="flex gap-3">
           <div>AAAA</div>
           <div>AAAA</div>
-          <div>AAAA</div>
+          <div>AAA</div>
         </div>
       </div>
       <main>
